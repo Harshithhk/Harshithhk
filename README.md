@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with **other developers**
 
-- 👨‍💻 All of my projects are available at [*work in progress*](_work in progress_)
+- 👨‍💻 All of my projects are available at [*work in progress*]
 
 - 📝 2021 goals **to contribute more to Open Source**
 
