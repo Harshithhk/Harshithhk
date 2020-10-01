@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithhk" alt="harshithhk" /> </p>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 Currently learning **everything**
 
 - 💬 Ask me about **react, nodejs, flutter**
 
-- 👯 I’m looking to collaborate with **other developers**
+- 👯 Looking to collaborate with **other developers**
 
 - 👨‍💻 All of my projects are available at [*work in progress*]
 
 - 📝 2021 goals **to contribute more to Open Source**
 
-- 📫 How to reach me **harshithhk@gmail.com**
+- 📫 How to reach me: **harshithhk@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
