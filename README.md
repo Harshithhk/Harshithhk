@@ -11,9 +11,10 @@
 
 - 👨‍💻 All of my projects are available at [*work in progress*]
 
-- 📝 2021 goals **to contribute more to Open Source**
+- 📝 2021 goals- **to contribute more to Open Source**
 
-- 📫 How to reach me: **harshithhk@gmail.com**
+- 📫 Reach me at: **harshithhk@gmail.com**
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
