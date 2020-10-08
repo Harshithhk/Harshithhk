@@ -28,4 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithhk&layout=compact" alt="harshithhk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshithhk&show_icons=true" alt="harshithhk" /></p>
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Harshithhk" frameborder="0"></iframe>
