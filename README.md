@@ -15,7 +15,7 @@
 ### My WebDev projects 💻🕸:
 - 📚 [QnA Forum](https://github.com/Harshithhk/QnA-Forum)
 - 💬 [Realtime Chat App](https://chatmaster.netlify.app/ChatApp)
-- 🛒 [Ecommerce Shop] (https://github.com/Harshithhk/Ecommerce-Shop-MERN)
+- 🛒 [Ecommerce Shop](https://github.com/Harshithhk/Ecommerce-Shop-MERN)
 - 💻 [Codepen Clone](https://codepenlike.netlify.app/)
 - 💡 [IT Company Portfolio](https://digiwiztesting.netlify.app/)
 
