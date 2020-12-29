@@ -3,15 +3,26 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithhk" alt="harshithhk" /> </p>
 
-- 🌱 Currently learning **everything**
-
-- 👯 Looking to collaborate with **other computer scientists**
+- 👯 Looking to collaborate with **other devs**
 
 - 👨‍💻 All of my projects are available at [*work in progress*]
 
 - 📝 2021 goals- **to contribute more to Open Source**
 
 - 📫 Reach me at: **harshithhk@gmail.com**
+
+
+### My WebDev projects 💻🕸:
+- 📚 [QnA Forum](https://github.com/Harshithhk/QnA-Forum)
+- 💬 [Realtime Chat App](https://chatmaster.netlify.app/ChatApp)
+- 🛒 [Ecommerce Shop] (https://github.com/Harshithhk/Ecommerce-Shop-MERN)
+- 💻 [Codepen Clone](https://codepenlike.netlify.app/)
+- 💡 [IT Company Portfolio](https://digiwiztesting.netlify.app/)
+
+### My Flutter Projects 🎯:
+- 💬 [Realtime Chat App](https://github.com/Harshithhk/Advanced-Chat-App-Flutter-Firebase)
+- ⛅ [Weather App](https://github.com/Harshithhk/WeatherApp-Flutter) *static*
+- 📜 [Todo App](https://github.com/Harshithhk/Todo-App-Flutter)
 
 
 <p align="left">
