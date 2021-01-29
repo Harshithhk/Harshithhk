@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithhk" alt="harshithhk" /> </p>
 
+### Junior Software Engineer at 👨‍💻 [Recibo Technologies Pvt Ltd.](https://www.recibotech.com/)
+
+### Engineering Student at 👨‍💻 [KITCOEK](https://www.kitcoek.in/)
+
 - 👯 Looking to collaborate with **other devs**
 
 - 👨‍💻 All of my projects are available at [*work in progress*]
@@ -18,13 +22,14 @@
 - 🛒 [Ecommerce Shop](https://github.com/Harshithhk/Ecommerce-Shop-MERN)
 - 💻 [Codepen Clone](https://codepenlike.netlify.app/)
 - 💡 [IT Company Portfolio](https://digiwiz.io/)
-- and many more..
+-    and many more..
 
 
 ### My Flutter Projects 🎯:
 - 💬 [Realtime Chat App](https://github.com/Harshithhk/Advanced-Chat-App-Flutter-Firebase)
 - ⛅ [Weather App](https://github.com/Harshithhk/WeatherApp-Flutter) *static*
 - 📜 [Todo App](https://github.com/Harshithhk/Todo-App-Flutter)
+-    and many more..
 
 
 <p align="left">
