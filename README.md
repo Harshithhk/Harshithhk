@@ -22,7 +22,7 @@
 - 🛒 [Ecommerce Shop](https://github.com/Harshithhk/Ecommerce-Shop-MERN)
 - 💻 [Codepen Clone](https://codepenlike.netlify.app/)
 - 💡 [IT Company Portfolio](https://digiwiz.io/)
-- 🔐 [Housing Security System] (https://github.com/Harshithhk/Security_Systems_MP)
+- 🔐 [Housing Security System](https://github.com/Harshithhk/Security_Systems_MP)
 -    and many more..
 
 
@@ -30,7 +30,7 @@
 - 💬 [Realtime Chat App](https://github.com/Harshithhk/Advanced-Chat-App-Flutter-Firebase)
 - ⛅ [Weather App](https://github.com/Harshithhk/WeatherApp-Flutter) *static*
 - 📜 [Todo App](https://github.com/Harshithhk/Todo-App-Flutter)
-- 🔐 [Housing Security System] (https://github.com/Harshithhk/Security_Systems_MP)
+- 🔐 [Housing Security System](https://github.com/Harshithhk/Security_Systems_MP)
 -    and many more..
 
 
