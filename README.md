@@ -21,7 +21,7 @@
 - 💬 [Realtime Chat App](https://chatmaster.netlify.app/ChatApp)
 - 🛒 [Ecommerce Shop](https://github.com/Harshithhk/Ecommerce-Shop-MERN)
 - 💻 [Codepen Clone](https://codepenlike.netlify.app/)
-- 📚 [mini ERP system](https://inventoryprototype.netlify.app/)
+- 📚 [Mini ERP system](https://inventoryprototype.netlify.app/)
 - 💡 [IT Company Portfolio](https://digiwiz.io/)
 - 🔐 [Housing Security System](https://github.com/Harshithhk/Security_Systems_MP)
 -    and many more..
