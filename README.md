@@ -24,6 +24,7 @@
 - 📚 [Mini ERP system](https://inventoryprototype.netlify.app/)
 - 💡 [IT Company Portfolio](https://digiwiz.io/)
 - 🔐 [Housing Security System](https://github.com/Harshithhk/Security_Systems_MP)
+- ✨ [Noor](https://noor.vercel.app/)
 -    and many more..
 
 
