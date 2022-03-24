@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithhk" alt="harshithhk" /> </p>
 
-### Junior Software Engineer at 👨‍💻 [Recibo Technologies Pvt Ltd.](https://www.recibotech.com/)
+### Software Engineer at 👨‍💻 [Recibo Technologies Pvt Ltd.](https://www.recibotech.com/)
 
 ### Engineering Student at 👨‍💻 [KITCOEK](https://www.kitcoek.in/)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [*work in progress*]
 
-- 📝 2021 goals- **to contribute more to Open Source**
+- 📝 2022 goals- **to contribute more to Open Source**
 
 - 📫 Reach me at: **harshithhk@gmail.com**
 
@@ -25,6 +25,7 @@
 - 💡 [IT Company Portfolio](https://digiwiz.io/)
 - 🔐 [Housing Security System](https://github.com/Harshithhk/Security_Systems_MP)
 - ✨ [Noor](https://noor.vercel.app/)
+- 🎓 [KITCOEK University - (under development)](https://kitcoek.vercel.app/)
 -    and many more..
 
 
@@ -34,6 +35,9 @@
 - 📜 [Todo App](https://github.com/Harshithhk/Todo-App-Flutter)
 - 🔐 [Housing Security System](https://github.com/Harshithhk/Security_Systems_MP)
 -    and many more..
+
+### My Game Dev Projects 🎯:
+- 💬 [Dodgey Zombies - mini project](https://megalodonb.itch.io/kpgame)
 
 
 <p align="left">
