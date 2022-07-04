@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithhk" alt="harshithhk" /> </p>
 
-### Software Engineer at 👨‍💻 [Recibo Technologies Pvt Ltd.](https://www.recibotech.com/)
+### Software Engineer at [MOBIUX](https://www.mobiux.in) 👨‍💻 
 
-### Engineering Student at 👨‍💻 [KITCOEK](https://www.kitcoek.in/)
 
 - 👯 Looking to collaborate with **other devs**
 
@@ -14,30 +13,6 @@
 - 📝 2022 goals- **to contribute more to Open Source**
 
 - 📫 Reach me at: **harshithhk@gmail.com**
-
-
-### My WebDev projects 💻🕸:
-- 📚 [QnA Forum](https://github.com/Harshithhk/QnA-Forum)
-- 💬 [Realtime Chat App](https://chatmaster.netlify.app/ChatApp)
-- 🛒 [Ecommerce Shop](https://github.com/Harshithhk/Ecommerce-Shop-MERN)
-- 💻 [Codepen Clone](https://codepenlike.netlify.app/)
-- 📚 [Mini ERP system](https://inventoryprototype.netlify.app/)
-- 💡 [IT Company Portfolio](https://digiwiz.io/)
-- 🔐 [Housing Security System](https://github.com/Harshithhk/Security_Systems_MP)
-- ✨ [Noor](https://noor.vercel.app/)
-- 🎓 [KITCOEK University - (under development)](https://kitcoek.vercel.app/)
--    and many more..
-
-
-### My Flutter Projects 🎯:
-- 💬 [Realtime Chat App](https://github.com/Harshithhk/Advanced-Chat-App-Flutter-Firebase)
-- ⛅ [Weather App](https://github.com/Harshithhk/WeatherApp-Flutter) *static*
-- 📜 [Todo App](https://github.com/Harshithhk/Todo-App-Flutter)
-- 🔐 [Housing Security System](https://github.com/Harshithhk/Security_Systems_MP)
--    and many more..
-
-### My Game Dev Projects 🎯:
-- 💬 [Dodgey Zombies - mini project](https://megalodonb.itch.io/kpgame)
 
 
 <p align="left">
