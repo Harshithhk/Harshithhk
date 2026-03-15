@@ -10,9 +10,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a Software Engineer with **3.5+ years of experience** in **full-stack development** and **DevSecOps**, specializing in building scalable, secure, cloud-native architectures. Skilled in **AWS cloud**, **containerization**, and **infrastructure automation**, with a strong understanding of **distributed systems**, **compliance-first development**, and **cross-functional collaboration**.  
-
-I enjoy architecting reliable and secure solutions, from **serverless pipelines** to **containerized microservices**, and continuously explore ways to improve automation and observability.
+I'm a Software Engineer with **3.5+ years of experience** in **full-stack development** and **DevSecOps**, specializing in building scalable, secure, cloud-native architectures. Skilled in **AWS cloud**, **containerization**, and **infrastructure automation**, with a strong understanding of **distributed systems** and **compliance-first development**.
 
 ---
 
@@ -31,29 +29,19 @@ I enjoy architecting reliable and secure solutions, from **serverless pipelines*
 
 ## 💼 Professional Experience  
 
-### 🧠 **Senior Software Engineer – Mobiux Labs (Jun 2022 – Jun 2024)**  
+### 🧠 ** Software Engineer – Mobiux Labs (Jun 2022 – Jun 2024)**  
 - Developed a full-stack InsureTech app using **Next.js**, **Django**, and **Node.js**, deployed on **AWS & Azure**.  
 - Migrated from a monolithic to an **event-driven serverless architecture**, improving load capacity by **300%** and reducing latency by **40%**.  
 - Built CI/CD pipelines with **Terraform**, **Serverless**, and **CloudFormation**, cutting deployment time by **80%**.  
 - Led **LLM infrastructure development** using **SageMaker** and **OpenSearch**, enabling **RAG** functionality and cutting ML costs by **60%**.  
 - Achieved **SOC2 compliance** through collaboration with security teams.  
 
-### 💡 **Junior Software Engineer – Recibo Technologies (Jan 2021 – Apr 2022)**  
+### 💡 ** Software Engineer – Recibo Technologies (Jan 2021 – Apr 2022)**  
 - Built web and mobile platforms using **Node.js** and **Flutter**, serving 20+ clients.  
 - Revamped UIs with **React** and **Polymer**, increasing engagement by **30%**.  
 - Migrated backend from REST to **GraphQL** + **Sequelize ORM**, improving data retrieval by **50%**.  
 - Created a **cross-engine DB sync service** (MySQL ↔ MS SQL), saving 50+ manual hours monthly.  
 - Published internal **npm packages** for reusable API authorization modules.  
-
----
-
-## 🧩 Projects  
-
-### 🧠 Quantum Gate Visualizer  
-Built a Python-based app using **Tkinter** and **Qiskit** to visualize and simulate quantum gates for learning and research.
-
-### 🏫 KITCOEK University Website ([kitcoek.in](https://kitcoek.in))  
-Designed, developed, and maintain the official University website using **ReactJS**, **ExpressJS**, and **MongoDB**.
 
 ---
 
